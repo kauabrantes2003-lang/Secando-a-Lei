@@ -1,0 +1,8 @@
+{
+  "name": "Secando a LEI",
+  "description": "Um assistente de estudo inteligente especializado em legislação seca, transformando textos densos em planos de ação interativos com IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
