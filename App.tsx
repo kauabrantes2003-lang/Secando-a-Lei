@@ -1,4 +1,4 @@
-
+import './index.css';
 import React, { useState, useEffect } from 'react';
 import { AppState, StudyPlan, LawBlock, User } from './types';
 import Hero from './components/Hero';
